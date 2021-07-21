@@ -1,3 +1,16 @@
+Issue #1 : Rename Images and put them in separate folder.
+
+#### Step#1: 
+Rename Images and put them in separate folder.. #3
+#### Step#2: fixes #12
+Tried to fix the following Issue:
+Renaming Images and Storing in proper folder.
+#### Step#3:
+Link of the whole process:
+
+
+
+
 Issue #3 : Use a Better Font
 
 #### Step#1: 
