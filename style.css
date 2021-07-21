@@ -2,8 +2,10 @@
     /* padding: 0px; */
     /* margin: 5px; */
 /* } */
+
 body{
     background-color: #999999
+    font-family: 'Playfair Display', serif;
 }
 ul{
     list-style: none;
