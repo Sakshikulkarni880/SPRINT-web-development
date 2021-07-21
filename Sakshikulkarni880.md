@@ -1,3 +1,5 @@
+Issue #9 : Links not opening in the same tab. 
+
 #### Step#1: 
 Links not opening in the same tab. #9
 #### Step#2: fixes #12
@@ -10,3 +12,5 @@ https://drive.google.com/drive/folders/1mTUTlDvY9fm9PKqm0xkMi5UFEazyj1Cj?usp=sha
 =======
 
 >>>>>>> Stashed changes
+
+Issue #3 : Use a Better Font
