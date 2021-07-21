@@ -1,3 +1,6 @@
+Git Username: Sakshikulkarni
+Discord Id: sakshikul880#0710
+
 Issue #1 : Rename Images and put them in separate folder.
 
 #### Step#1: 
@@ -7,7 +10,7 @@ Tried to fix the following Issue:
 Renaming Images and Storing in proper folder.
 #### Step#3:
 Link of the whole process:
-
+https://drive.google.com/file/d/1CoNLGM-Id4B5gCFtKYZVAPhJ_1BIzk3o/view?usp=sharing
 
 
 
